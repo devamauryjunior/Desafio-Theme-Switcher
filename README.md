@@ -11,8 +11,8 @@ Nesse projeto, da plataforma [rocketseat](https://app.rocketseat.com.br/discover
 ![image](./assets/img/mobile-light.png)
 ![image](./assets/img/mobile-dark.png)
 ![image](./assets/img/desktop-light.png)
-![image](./assets/img/mobile-dark.png)
+![image](./assets/img/deskto-dark.png)
 
 ## Vendo na prática
 
-[link](https://devamauryjunior-change-theme.netlify.app)
+Aperte aqui: [site](https://devamauryjunior-change-theme.netlify.app)
